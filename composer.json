@@ -1,0 +1,9 @@
+
+{
+  "name":"andre/beer-collection",
+  "autoload":{
+    "psr-4":{
+      "App\\":"app/"
+    }
+  }
+}
