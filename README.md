@@ -7,7 +7,7 @@ CRUD com PHP orientado a objetos, PDO e MySQL
 
 Crie um banco de dados e execute as instruções SQLs abaixo para criar a tabela `cervejas`:
 ```sql
-  CREATE TABLE `vagas` (
+  CREATE TABLE `cervejas` (
   	`id` INT(11) NOT NULL AUTO_INCREMENT,
   	`marca` VARCHAR(255) NOT NULL COLLATE 'utf8_general_ci',
     `nome` VARCHAR(255) NOT NULL COLLATE 'utf8_general_ci',
